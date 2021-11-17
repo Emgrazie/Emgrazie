@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emgrazie
-- 👀 I’m interested in stopping crooks from clearing out my Metamask of ETH I need there to get my NFTs to safety.
+- 👀 I’m interested in stopping crooks exploiting stuff.
 - 🌱 I’m currently learning a bit of coding.
-- 💞️ I’m looking to collaborate on getting a flashbot to work.
+- 💞️ I’m looking to improve.
 - 📫 How to reach me ... emgrazie@gmail.com
 
 <!---
